@@ -1,5 +1,5 @@
 //const api_url = "<heroku_app_url>"
-const api_url = "https://krutika-mven.herokuapp.com/user"
+const api_url = "https://krutika-mevn.herokuapp.com/user"
 
 function loadData(records = []) {
         var table_data = "";
